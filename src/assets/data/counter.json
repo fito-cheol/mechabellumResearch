@@ -1,0 +1,21 @@
+{
+    "crawler": ["arclight", "sledgehammer", "mustang", "wasp", "vulcan"],
+    "fang":  ["arclight",  "wasp", "sledgehammer", "mustang", "stormcaller"],
+    "marksman":  [ "crawler", "fang", "wasp", "mustang", "stormcaller"],
+    "arclight":  ["sledgehammer",  "steelball", "stormcaller", "phoenix", "rhino", "hacker", "wraith", "fortress"],
+    "wasp":  ["mustang"],
+    "mustang":  ["arclight", "steelball", "stormcaller", "vulcan"],
+    "sledgehammer":  ["marksman", "steelball", "stormcaller", "phoenix", "rhino", "hacker", "wraith", "scorpion", "fortress", "overlord"],
+    "steelball":  [ "stormcaller", "phoenix", "hacker", "wraith", "scorpion", "fortress", "overlord"],
+    "stormcaller":  ["crawler", "phoenix", "rhino", "warfactory"],
+    "phoenix":  [ "crawler", "fang", "marksman", "wasp", "mustang"],
+    "rhino":  ["steelball", "hacker", "scorpion", "fortress", "meltingpoint"],
+    "hacker":  ["crawler", "fang", "marksman", "wasp", "stormcaller", "phoenix" ],
+    "wraith":  ["phoenix", "meltingpoint"],
+    "scorpion":  ["crawler", "wasp", "stormcaller","phoenix", "meltingpoint"],
+    "vulcan":  ["steelball", "hacker", "scorpion", "fortress", "meltingpoint", "overlord"],
+    "fortress": ["meltingpoint", "scorpion", "overlord"],
+    "meltingpoint": ["crawler", "fang", "wasp", "mustang", "stormcaller", "phoenix", ""],
+    "overlord": ["marksman", "wasp", "mustang", "phoenix"],
+    "warfactory": ["steelball", "meltingpoint"]
+}
