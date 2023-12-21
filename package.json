@@ -22,9 +22,10 @@
     "craco-alias": "^3.0.1",
     "craco-plugin-scoped-css": "^1.1.1",
     "eslint": "^8.13.0",
+    "fast-xml-parser": "^4.3.2",
     "js-cookie": "^3.0.1",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-query": "^3.39.3",
     "react-redux": "^8.0.5",
     "react-scripts": "5.0.0",
@@ -60,7 +61,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-dom": "^17.0.15",
+    "@types/react-dom": "^18.2.18",
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",

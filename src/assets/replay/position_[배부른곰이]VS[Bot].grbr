@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BattleRecord xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerRecords>
+    <PlayerRecord>
+      <id>281474976710980194</id>
+      <name>배부른곰이</name>
+      <seed>0</seed>
+      <ad>0</ad>
+      <data>
+        <reactorCore>50000</reactorCore>
+        <MaxReactorCore>50000</MaxReactorCore>
+        <maxRoundSupply>4000</maxRoundSupply>
+        <firstRoundSupply>200</firstRoundSupply>
+        <roundSupplyIncreaseValue>200</roundSupplyIncreaseValue>
+        <unitDatas>
+          <unitData>
+            <id>1</id>
+            <techs>
+              <tech data="1001" />
+              <tech data="110201" />
+              <tech data="1105" />
+              <tech data="1201" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>2</id>
+            <techs>
+              <tech data="10202" />
+              <tech data="702" />
+              <tech data="1202" />
+              <tech data="3202" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>3</id>
+            <techs>
+              <tech data="10203" />
+              <tech data="10603" />
+              <tech data="1103" />
+              <tech data="11010" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>4</id>
+            <techs>
+              <tech data="10204" />
+              <tech data="1107" />
+              <tech data="304" />
+              <tech data="1106" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>5</id>
+            <techs>
+              <tech data="1109" />
+              <tech data="2805" />
+              <tech data="180305" />
+              <tech data="2505" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>6</id>
+            <techs>
+              <tech data="10206" />
+              <tech data="206" />
+              <tech data="506" />
+              <tech data="1806" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>7</id>
+            <techs>
+              <tech data="10207" />
+              <tech data="407" />
+              <tech data="3207" />
+              <tech data="10607" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>8</id>
+            <techs>
+              <tech data="308" />
+              <tech data="3008" />
+              <tech data="608" />
+              <tech data="10208" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>9</id>
+            <techs>
+              <tech data="10509" />
+              <tech data="10209" />
+              <tech data="10609" />
+              <tech data="209" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>10</id>
+            <techs>
+              <tech data="2610" />
+              <tech data="10510" />
+              <tech data="10710" />
+              <tech data="180110" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>11</id>
+            <techs>
+              <tech data="1611" />
+              <tech data="180311" />
+              <tech data="1108" />
+              <tech data="1211" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>12</id>
+            <techs>
+              <tech data="1812" />
+              <tech data="10312" />
+              <tech data="412" />
+              <tech data="812" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>13</id>
+            <techs>
+              <tech data="10213" />
+              <tech data="10613" />
+              <tech data="10513" />
+              <tech data="1813" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>14</id>
+            <techs>
+              <tech data="1014" />
+              <tech data="10214" />
+              <tech data="1814" />
+              <tech data="1714" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>15</id>
+            <techs>
+              <tech data="10215" />
+              <tech data="1815" />
+              <tech data="10815" />
+              <tech data="10915" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>16</id>
+            <techs>
+              <tech data="10216" />
+              <tech data="1616" />
+              <tech data="10916" />
+              <tech data="1816" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>17</id>
+            <techs>
+              <tech data="3417" />
+              <tech data="10217" />
+              <tech data="12017" />
+              <tech data="12117" />
+              <tech data="12217" />
+              <tech data="3317" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>18</id>
+            <techs>
+              <tech data="110181" />
+              <tech data="10218" />
+              <tech data="3018" />
+              <tech data="180418" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>19</id>
+            <techs>
+              <tech data="180519" />
+              <tech data="10219" />
+              <tech data="719" />
+              <tech data="10019" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>51</id>
+            <techs>
+              <tech data="1051" />
+              <tech data="3051" />
+              <tech data="12051" />
+              <tech data="11051" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>53</id>
+            <techs>
+              <tech data="11053" />
+              <tech data="180353" />
+              <tech data="180253" />
+              <tech data="12053" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>54</id>
+            <techs>
+              <tech data="11054" />
+              <tech data="110542" />
+              <tech data="180354" />
+              <tech data="1054" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>61</id>
+            <techs>
+              <tech data="11061" />
+              <tech data="1061" />
+              <tech data="12061" />
+              <tech data="12161" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>64</id>
+            <techs>
+              <tech data="10964" />
+              <tech data="10965" />
+              <tech data="10966" />
+              <tech data="10967" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+        </unitDatas>
+        <style>
+          <unitStyles />
+        </style>
+      </data>
+      <playerRoundRecords>
+        <PlayerRoundRecord>
+          <round>0</round>
+          <playerData>
+            <reactorCore>50000</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units />
+            <unitIndex>0</unitIndex>
+            <officers />
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits />
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords />
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>1</round>
+          <playerData>
+            <reactorCore>50000</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units />
+            <unitIndex>0</unitIndex>
+            <officers />
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits />
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>0</Time>
+              <LocalTime>154.554825</LocalTime>
+              <UID>2</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>155.304871</LocalTime>
+              <UID>2</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>158.505066</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>0</unitIndex>
+                  <position>
+                    <x>-290</x>
+                    <y>-20</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+      </playerRoundRecords>
+    </PlayerRecord>
+    <PlayerRecord>
+      <id>1234567891</id>
+      <name>Bot</name>
+      <seed>1</seed>
+      <ad>0</ad>
+      <data>
+        <reactorCore>50000</reactorCore>
+        <MaxReactorCore>50000</MaxReactorCore>
+        <maxRoundSupply>4000</maxRoundSupply>
+        <firstRoundSupply>200</firstRoundSupply>
+        <roundSupplyIncreaseValue>200</roundSupplyIncreaseValue>
+        <unitDatas>
+          <unitData>
+            <id>1</id>
+            <techs>
+              <tech data="1001" />
+              <tech data="10201" />
+              <tech data="1105" />
+              <tech data="1201" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>2</id>
+            <techs>
+              <tech data="702" />
+              <tech data="10202" />
+              <tech data="10402" />
+              <tech data="1802" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>3</id>
+            <techs>
+              <tech data="180203" />
+              <tech data="10203" />
+              <tech data="1103" />
+              <tech data="10603" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>4</id>
+            <techs>
+              <tech data="304" />
+              <tech data="10204" />
+              <tech data="1107" />
+              <tech data="1106" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>5</id>
+            <techs>
+              <tech data="1109" />
+              <tech data="180305" />
+              <tech data="905" />
+              <tech data="2805" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>6</id>
+            <techs>
+              <tech data="206" />
+              <tech data="10206" />
+              <tech data="1606" />
+              <tech data="506" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>7</id>
+            <techs>
+              <tech data="3307" />
+              <tech data="10207" />
+              <tech data="407" />
+              <tech data="3207" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>8</id>
+            <techs>
+              <tech data="308" />
+              <tech data="608" />
+              <tech data="10208" />
+              <tech data="1308" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>9</id>
+            <techs>
+              <tech data="180209" />
+              <tech data="10209" />
+              <tech data="10509" />
+              <tech data="209" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>10</id>
+            <techs>
+              <tech data="10510" />
+              <tech data="180110" />
+              <tech data="2610" />
+              <tech data="2710" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>11</id>
+            <techs>
+              <tech data="1108" />
+              <tech data="10311" />
+              <tech data="1211" />
+              <tech data="1611" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>12</id>
+            <techs>
+              <tech data="812" />
+              <tech data="10212" />
+              <tech data="10312" />
+              <tech data="412" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>13</id>
+            <techs>
+              <tech data="913" />
+              <tech data="613" />
+              <tech data="10513" />
+              <tech data="10213" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>14</id>
+            <techs>
+              <tech data="11014" />
+              <tech data="1014" />
+              <tech data="10214" />
+              <tech data="1714" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>15</id>
+            <techs>
+              <tech data="10215" />
+              <tech data="1815" />
+              <tech data="10915" />
+              <tech data="3015" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>16</id>
+            <techs>
+              <tech data="2916" />
+              <tech data="10216" />
+              <tech data="10316" />
+              <tech data="216" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>17</id>
+            <techs>
+              <tech data="10217" />
+              <tech data="3417" />
+              <tech data="12017" />
+              <tech data="12117" />
+              <tech data="3317" />
+              <tech data="180317" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>18</id>
+            <techs>
+              <tech data="110181" />
+              <tech data="10218" />
+              <tech data="3018" />
+              <tech data="180418" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>19</id>
+            <techs>
+              <tech data="180519" />
+              <tech data="10019" />
+              <tech data="10219" />
+              <tech data="719" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>51</id>
+            <techs>
+              <tech data="1051" />
+              <tech data="3051" />
+              <tech data="12051" />
+              <tech data="11051" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>53</id>
+            <techs>
+              <tech data="11053" />
+              <tech data="180353" />
+              <tech data="180253" />
+              <tech data="12053" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>54</id>
+            <techs>
+              <tech data="11054" />
+              <tech data="110542" />
+              <tech data="180354" />
+              <tech data="1054" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>61</id>
+            <techs>
+              <tech data="11061" />
+              <tech data="1061" />
+              <tech data="12061" />
+              <tech data="12161" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>64</id>
+            <techs>
+              <tech data="10964" />
+              <tech data="10965" />
+              <tech data="10966" />
+              <tech data="10967" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+        </unitDatas>
+        <style>
+          <unitStyles />
+        </style>
+      </data>
+      <playerRoundRecords>
+        <PlayerRoundRecord>
+          <round>0</round>
+          <playerData>
+            <reactorCore>50000</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units />
+            <unitIndex>0</unitIndex>
+            <officers />
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits />
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords />
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>1</round>
+          <playerData>
+            <reactorCore>50000</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units />
+            <unitIndex>0</unitIndex>
+            <officers />
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits />
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>0</Time>
+              <LocalTime>184.45665</LocalTime>
+              <UID>2</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>185.60672</LocalTime>
+              <UID>2</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>188.156876</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>0</unitIndex>
+                  <position>
+                    <x>290</x>
+                    <y>20</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+      </playerRoundRecords>
+    </PlayerRecord>
+  </playerRecords>
+  <matchDatas>
+    <MatchSnapshotData>
+      <round>0</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>12911273065197636726</unsignedLong>
+          <unsignedLong>6843132487979548689</unsignedLong>
+          <unsignedLong>3237525834673184268</unsignedLong>
+          <unsignedLong>8114062435856953194</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10002</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30102</int>
+        <int>30201</int>
+        <int>30301</int>
+        <int>30502</int>
+        <int>30602</int>
+        <int>31002</int>
+        <int>31104</int>
+        <int>31305</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>30702</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>13030007</int>
+        <int>10007</int>
+        <int>10008</int>
+        <int>10009</int>
+        <int>30403</int>
+        <int>30803</int>
+        <int>30902</int>
+        <int>31204</int>
+        <int>31501</int>
+        <int>31602</int>
+        <int>31801</int>
+        <int>31901</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+    <MatchSnapshotData>
+      <round>1</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>12911273065197636726</unsignedLong>
+          <unsignedLong>6843132487979548689</unsignedLong>
+          <unsignedLong>3237525834673184268</unsignedLong>
+          <unsignedLong>8114062435856953194</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10002</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30102</int>
+        <int>30201</int>
+        <int>30301</int>
+        <int>30502</int>
+        <int>30602</int>
+        <int>31002</int>
+        <int>31104</int>
+        <int>31305</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>30702</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>13030007</int>
+        <int>10007</int>
+        <int>10008</int>
+        <int>10009</int>
+        <int>30403</int>
+        <int>30803</int>
+        <int>30902</int>
+        <int>31204</int>
+        <int>31501</int>
+        <int>31602</int>
+        <int>31801</int>
+        <int>31901</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+  </matchDatas>
+  <reinforceItems />
+  <Version>959</Version>
+  <Seat>0</Seat>
+  <BattleInfo xsi:type="BattleSetting">
+    <StartTime>0</StartTime>
+    <SystemSeed>756439376</SystemSeed>
+    <BattleID>23-12-21__11-02-56-311</BattleID>
+    <MapID>1001</MapID>
+    <BlueprintIncreaseSupply>0</BlueprintIncreaseSupply>
+    <GameMode>Normal</GameMode>
+    <MatchMode>VS_1_1</MatchMode>
+    <HostID>0</HostID>
+    <WatchDelay>0</WatchDelay>
+    <AllowWatchChat>false</AllowWatchChat>
+    <SurviveModeDifficulty>VeryEasy</SurviveModeDifficulty>
+    <PrepareTime>9999</PrepareTime>
+    <DeployTime>9999</DeployTime>
+    <FightTime>120</FightTime>
+    <MatchType>Test</MatchType>
+    <PlayerIndex>-1</PlayerIndex>
+    <EnableAdvanceTeam>false</EnableAdvanceTeam>
+    <EnableReinforcement>false</EnableReinforcement>
+    <MaxRound>40</MaxRound>
+  </BattleInfo>
+</BattleRecord>

@@ -1,0 +1,3928 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BattleRecord xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerRecords>
+    <PlayerRecord>
+      <id>281474976710980194</id>
+      <name>배부른곰이</name>
+      <seed>0</seed>
+      <ad>0</ad>
+      <data>
+        <reactorCore>4000</reactorCore>
+        <MaxReactorCore>4000</MaxReactorCore>
+        <maxRoundSupply>4000</maxRoundSupply>
+        <firstRoundSupply>200</firstRoundSupply>
+        <roundSupplyIncreaseValue>200</roundSupplyIncreaseValue>
+        <unitDatas>
+          <unitData>
+            <id>1</id>
+            <techs>
+              <tech data="1001" />
+              <tech data="110201" />
+              <tech data="1105" />
+              <tech data="10201" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>2</id>
+            <techs>
+              <tech data="10202" />
+              <tech data="10802" />
+              <tech data="1802" />
+              <tech data="3202" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>3</id>
+            <techs>
+              <tech data="10203" />
+              <tech data="10603" />
+              <tech data="1103" />
+              <tech data="11010" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>4</id>
+            <techs>
+              <tech data="10204" />
+              <tech data="1107" />
+              <tech data="304" />
+              <tech data="1106" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>5</id>
+            <techs>
+              <tech data="1109" />
+              <tech data="2805" />
+              <tech data="180305" />
+              <tech data="10505" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>6</id>
+            <techs>
+              <tech data="10206" />
+              <tech data="1606" />
+              <tech data="3206" />
+              <tech data="506" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>7</id>
+            <techs>
+              <tech data="10207" />
+              <tech data="407" />
+              <tech data="3207" />
+              <tech data="10607" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>8</id>
+            <techs>
+              <tech data="308" />
+              <tech data="3008" />
+              <tech data="1308" />
+              <tech data="2408" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>9</id>
+            <techs>
+              <tech data="10509" />
+              <tech data="10209" />
+              <tech data="10609" />
+              <tech data="209" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>10</id>
+            <techs>
+              <tech data="2610" />
+              <tech data="10510" />
+              <tech data="10710" />
+              <tech data="180110" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>11</id>
+            <techs>
+              <tech data="10211" />
+              <tech data="180311" />
+              <tech data="1108" />
+              <tech data="1211" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>12</id>
+            <techs>
+              <tech data="1812" />
+              <tech data="10312" />
+              <tech data="412" />
+              <tech data="10212" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>13</id>
+            <techs>
+              <tech data="10513" />
+              <tech data="10213" />
+              <tech data="10613" />
+              <tech data="3013" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>14</id>
+            <techs>
+              <tech data="1014" />
+              <tech data="10214" />
+              <tech data="11014" />
+              <tech data="1714" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>15</id>
+            <techs>
+              <tech data="10215" />
+              <tech data="1815" />
+              <tech data="10915" />
+              <tech data="3015" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>16</id>
+            <techs>
+              <tech data="10216" />
+              <tech data="1616" />
+              <tech data="216" />
+              <tech data="2916" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>17</id>
+            <techs>
+              <tech data="3317" />
+              <tech data="12017" />
+              <tech data="10217" />
+              <tech data="12117" />
+              <tech data="12217" />
+              <tech data="3417" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>18</id>
+            <techs>
+              <tech data="110181" />
+              <tech data="10218" />
+              <tech data="3018" />
+              <tech data="180418" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>19</id>
+            <techs>
+              <tech data="180519" />
+              <tech data="10019" />
+              <tech data="10219" />
+              <tech data="719" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>64</id>
+            <techs>
+              <tech data="10964" />
+              <tech data="10965" />
+              <tech data="10966" />
+              <tech data="10967" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>51</id>
+            <techs>
+              <tech data="1051" />
+              <tech data="3051" />
+              <tech data="12051" />
+              <tech data="11051" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>53</id>
+            <techs>
+              <tech data="11053" />
+              <tech data="180353" />
+              <tech data="180253" />
+              <tech data="12053" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>54</id>
+            <techs>
+              <tech data="11054" />
+              <tech data="110542" />
+              <tech data="180354" />
+              <tech data="1054" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>61</id>
+            <techs>
+              <tech data="11061" />
+              <tech data="1061" />
+              <tech data="12061" />
+              <tech data="12161" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+        </unitDatas>
+        <style>
+          <unitStyles />
+        </style>
+      </data>
+      <playerRoundRecords>
+        <PlayerRoundRecord>
+          <round>0</round>
+          <playerData>
+            <reactorCore>4000</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units />
+            <unitIndex>0</unitIndex>
+            <officers />
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits />
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseAdvanceTeam">
+              <Time>0</Time>
+              <LocalTime>20.1999779</LocalTime>
+              <Index>1</Index>
+              <ID>9880</ID>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>1</round>
+          <playerData>
+            <reactorCore>4600</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>2</id>
+                <Index>0</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>0</x>
+                  <y>-160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>1</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-20</x>
+                  <y>-160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>2</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>0</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>3</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>5</x>
+                  <y>-140</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>4</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>35</x>
+                  <y>-160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>5</unitIndex>
+            <officers>
+              <int>20021</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>2</int>
+                <int>7</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>-1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>0</Time>
+              <LocalTime>30.9498138</LocalTime>
+              <UID>9</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>31.8998</LocalTime>
+              <UID>9</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>32.0997963</LocalTime>
+              <UID>9</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>36.1997337</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>0</unitIndex>
+                  <position>
+                    <x>-210</x>
+                    <y>-180</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>1</unitIndex>
+                  <position>
+                    <x>-90</x>
+                    <y>-180</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>2</unitIndex>
+                  <position>
+                    <x>110</x>
+                    <y>-190</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>3</unitIndex>
+                  <position>
+                    <x>-255</x>
+                    <y>-290</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>4</unitIndex>
+                  <position>
+                    <x>215</x>
+                    <y>-260</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>5</unitIndex>
+                  <position>
+                    <x>-145</x>
+                    <y>-130</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>6</unitIndex>
+                  <position>
+                    <x>185</x>
+                    <y>-140</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>46.39958</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>3</unitIndex>
+                  <position>
+                    <x>-195</x>
+                    <y>-290</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>47.9495544</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>3</unitIndex>
+                  <position>
+                    <x>-215</x>
+                    <y>-290</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>51.5995</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>3</unitIndex>
+                  <position>
+                    <x>-220</x>
+                    <y>-285</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>55.6994362</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>5</unitIndex>
+                  <position>
+                    <x>-145</x>
+                    <y>-150</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>58.3493958</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>0</unitIndex>
+                  <position>
+                    <x>-180</x>
+                    <y>-180</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>61.0993538</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>6</unitIndex>
+                  <position>
+                    <x>145</x>
+                    <y>-150</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>63.5993156</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>4</unitIndex>
+                  <position>
+                    <x>185</x>
+                    <y>-280</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>67.1495</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>4</unitIndex>
+                  <position>
+                    <x>200</x>
+                    <y>-275</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>69.19962</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>4</unitIndex>
+                  <position>
+                    <x>220</x>
+                    <y>-275</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>76.4500656</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>1</unitIndex>
+                  <position>
+                    <x>-60</x>
+                    <y>-180</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>0</Time>
+              <LocalTime>78.80021</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>2</round>
+          <playerData>
+            <reactorCore>4162</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Lose</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>2</id>
+                <Index>0</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>6000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-180</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>1</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>4800</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-60</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>2</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>9300</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>-190</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>3</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>19800</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-220</x>
+                  <y>-285</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>4</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>66400</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>220</x>
+                  <y>-275</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>5</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>10100</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>7</unitIndex>
+            <officers>
+              <int>20021</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>2</int>
+                <int>7</int>
+                <int>9</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>0</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>0</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>0</Time>
+              <LocalTime>14.4000368</LocalTime>
+              <ID>31901</ID>
+              <Index>2</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>0</Time>
+              <LocalTime>19.4999886</LocalTime>
+              <UID>19</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>20.1999779</LocalTime>
+              <UID>19</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>23.1499329</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>19</unitID>
+                  <unitIndex>7</unitIndex>
+                  <position>
+                    <x>-105</x>
+                    <y>-145</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>34.7997551</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>19</unitID>
+                  <unitIndex>7</unitIndex>
+                  <position>
+                    <x>-85</x>
+                    <y>-135</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>40.5996666</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>19</unitID>
+                  <unitIndex>7</unitIndex>
+                  <position>
+                    <x>-105</x>
+                    <y>-145</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>41.949646</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>19</unitID>
+                  <unitIndex>7</unitIndex>
+                  <position>
+                    <x>-105</x>
+                    <y>-135</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>0</Time>
+              <LocalTime>43.9996147</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>3</round>
+          <playerData>
+            <reactorCore>3742</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Lose</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>2</id>
+                <Index>0</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>32800</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-180</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>1</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>22400</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-60</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>2</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>20900</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>-190</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>3</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>49400</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-220</x>
+                  <y>-285</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>4</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>84400</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>220</x>
+                  <y>-275</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>5</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>3200</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>10100</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>19</id>
+                <Index>7</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>120000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-105</x>
+                  <y>-135</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>8</unitIndex>
+            <officers>
+              <int>20021</int>
+              <int>31901</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>2</int>
+                <int>7</int>
+                <int>9</int>
+                <int>19</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+              </lockedUnits>
+              <BuyCount>1</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>0</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>0</Time>
+              <LocalTime>5.10000134</LocalTime>
+              <ID>13030007</ID>
+              <Index>1</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UseEquipment">
+              <Time>0</Time>
+              <LocalTime>7.35001</LocalTime>
+              <EquipmentID>13030007</EquipmentID>
+              <UnitIndex>7</UnitIndex>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>9.500018</LocalTime>
+              <UIDX>7</UIDX>
+              <UID>19</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>22.64994</LocalTime>
+              <UID>19</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>25.7498932</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>19</unitID>
+                  <unitIndex>8</unitIndex>
+                  <position>
+                    <x>-5</x>
+                    <y>-135</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>42.94963</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>19</unitID>
+                  <unitIndex>8</unitIndex>
+                  <position>
+                    <x>45</x>
+                    <y>-125</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>0</Time>
+              <LocalTime>43.849617</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>4</round>
+          <playerData>
+            <reactorCore>3742</reactorCore>
+            <supply>50</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>2</id>
+                <Index>0</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>65000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-180</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>1</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>65000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-60</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>2</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>55400</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>-190</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>3</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>110000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-220</x>
+                  <y>-285</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>4</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>110000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>220</x>
+                  <y>-275</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>5</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>38845</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>26600</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>19</id>
+                <Index>7</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>228195</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-105</x>
+                  <y>-135</y>
+                </Position>
+                <EquipmentID>13030007</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>450</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>19</id>
+                <Index>8</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>31800</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>45</x>
+                  <y>-125</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>9</unitIndex>
+            <officers>
+              <int>20021</int>
+              <int>31901</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments>
+              <int>13030007</int>
+            </equipments>
+            <shop>
+              <unlockedUnits>
+                <int>2</int>
+                <int>7</int>
+                <int>9</int>
+                <int>19</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+              </lockedUnits>
+              <BuyCount>1</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>0</Time>
+              <LocalTime>13.5500336</LocalTime>
+              <ID>20006</ID>
+              <Index>2</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>20.849968</LocalTime>
+              <UIDX>1</UIDX>
+              <UID>2</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>22.4999428</LocalTime>
+              <UIDX>0</UIDX>
+              <UID>2</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>23.6999245</LocalTime>
+              <UIDX>3</UIDX>
+              <UID>7</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>25.5998955</LocalTime>
+              <UIDX>4</UIDX>
+              <UID>7</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeTechnology">
+              <Time>0</Time>
+              <LocalTime>40.6496658</LocalTime>
+              <UID>7</UID>
+              <TechID>407</TechID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_ActiveEnergyTowerSkill">
+              <Time>0</Time>
+              <LocalTime>46.24958</LocalTime>
+              <SkillID>1</SkillID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>47.1495667</LocalTime>
+              <UID>7</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>56.14943</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>7</unitID>
+                  <unitIndex>9</unitIndex>
+                  <position>
+                    <x>45</x>
+                    <y>-180</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_ReleaseContraption">
+              <Time>0</Time>
+              <LocalTime>61.7993431</LocalTime>
+              <ContraptionID>20001</ContraptionID>
+              <Position>
+                <x>-105</x>
+                <y>-186</y>
+              </Position>
+              <ExtraPosition>
+                <x>0</x>
+                <y>0</y>
+              </ExtraPosition>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>0</Time>
+              <LocalTime>62.4493332</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>5</round>
+          <playerData>
+            <reactorCore>3742</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>2</id>
+                <Index>0</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>63917</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-180</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>150</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>1</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>31034</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-60</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>150</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>2</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>58700</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>-190</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>3</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>121633</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-220</x>
+                  <y>-285</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>4</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>44700</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>220</x>
+                  <y>-275</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>5</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>60000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>29600</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>145</x>
+                  <y>-150</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>19</id>
+                <Index>7</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>266800</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-105</x>
+                  <y>-135</y>
+                </Position>
+                <EquipmentID>13030007</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>450</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>19</id>
+                <Index>8</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>120000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>45</x>
+                  <y>-125</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>7</id>
+                <Index>9</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>102234</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>45</x>
+                  <y>-180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>10</unitIndex>
+            <officers>
+              <int>20021</int>
+              <int>31901</int>
+              <int>20006</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies>
+              <UnitData>
+                <id>7</id>
+                <techs>
+                  <tech data="407" />
+                </techs>
+                <unlockedTechs />
+              </UnitData>
+            </activeTechnologies>
+            <equipments>
+              <int>13030007</int>
+            </equipments>
+            <shop>
+              <unlockedUnits>
+                <int>2</int>
+                <int>7</int>
+                <int>9</int>
+                <int>19</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+              </lockedUnits>
+              <BuyCount>1</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions>
+              <ContraptionData>
+                <index>0</index>
+                <id>20001</id>
+                <position>
+                  <x>-105</x>
+                  <y>-186</y>
+                </position>
+              </ContraptionData>
+            </contraptions>
+            <contraptionIndex>1</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>0</Time>
+              <LocalTime>12.8500309</LocalTime>
+              <ID>20001</ID>
+              <Index>2</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>0</Time>
+              <LocalTime>32.8497849</LocalTime>
+              <UID>6</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>35.5997429</LocalTime>
+              <UID>6</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>40.049675</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>6</unitID>
+                  <unitIndex>10</unitIndex>
+                  <position>
+                    <x>-310</x>
+                    <y>285</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>43.4996223</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>6</unitID>
+                  <unitIndex>10</unitIndex>
+                  <position>
+                    <x>-310</x>
+                    <y>255</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>51.7494965</LocalTime>
+              <UIDX>7</UIDX>
+              <UID>19</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_ActiveEnergyTowerSkill">
+              <Time>0</Time>
+              <LocalTime>71.59977</LocalTime>
+              <SkillID>1</SkillID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>0</Time>
+              <LocalTime>73.04986</LocalTime>
+              <UIDX>8</UIDX>
+              <UID>19</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>0</Time>
+              <LocalTime>92.0010147</LocalTime>
+              <UID>9</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>0</Time>
+              <LocalTime>97.30134</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>11</unitIndex>
+                  <position>
+                    <x>-5</x>
+                    <y>-110</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>0</Time>
+              <LocalTime>100.0015</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+      </playerRoundRecords>
+    </PlayerRecord>
+    <PlayerRecord>
+      <id>281474976710762141</id>
+      <name>Hangman</name>
+      <seed>1</seed>
+      <ad>0</ad>
+      <data>
+        <reactorCore>4000</reactorCore>
+        <MaxReactorCore>4000</MaxReactorCore>
+        <maxRoundSupply>4000</maxRoundSupply>
+        <firstRoundSupply>200</firstRoundSupply>
+        <roundSupplyIncreaseValue>200</roundSupplyIncreaseValue>
+        <unitDatas>
+          <unitData>
+            <id>1</id>
+            <techs>
+              <tech data="1001" />
+              <tech data="10201" />
+              <tech data="1105" />
+              <tech data="110201" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>2</id>
+            <techs>
+              <tech data="1802" />
+              <tech data="10202" />
+              <tech data="10402" />
+              <tech data="10802" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>3</id>
+            <techs>
+              <tech data="180203" />
+              <tech data="10203" />
+              <tech data="1103" />
+              <tech data="10603" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>4</id>
+            <techs>
+              <tech data="304" />
+              <tech data="10204" />
+              <tech data="1106" />
+              <tech data="1107" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>5</id>
+            <techs>
+              <tech data="1109" />
+              <tech data="180305" />
+              <tech data="905" />
+              <tech data="10505" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>6</id>
+            <techs>
+              <tech data="206" />
+              <tech data="10206" />
+              <tech data="10806" />
+              <tech data="1806" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>7</id>
+            <techs>
+              <tech data="3307" />
+              <tech data="10207" />
+              <tech data="10607" />
+              <tech data="3207" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>8</id>
+            <techs>
+              <tech data="308" />
+              <tech data="3008" />
+              <tech data="10208" />
+              <tech data="1308" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>9</id>
+            <techs>
+              <tech data="10609" />
+              <tech data="10209" />
+              <tech data="10509" />
+              <tech data="209" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>10</id>
+            <techs>
+              <tech data="10510" />
+              <tech data="180110" />
+              <tech data="2610" />
+              <tech data="10710" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>11</id>
+            <techs>
+              <tech data="1108" />
+              <tech data="1211" />
+              <tech data="10211" />
+              <tech data="911" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>12</id>
+            <techs>
+              <tech data="812" />
+              <tech data="10212" />
+              <tech data="10312" />
+              <tech data="10912" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>13</id>
+            <techs>
+              <tech data="913" />
+              <tech data="1813" />
+              <tech data="10513" />
+              <tech data="10213" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>14</id>
+            <techs>
+              <tech data="11014" />
+              <tech data="1014" />
+              <tech data="10214" />
+              <tech data="1714" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>15</id>
+            <techs>
+              <tech data="10215" />
+              <tech data="10815" />
+              <tech data="10915" />
+              <tech data="3115" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>16</id>
+            <techs>
+              <tech data="10816" />
+              <tech data="10216" />
+              <tech data="1816" />
+              <tech data="216" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>17</id>
+            <techs>
+              <tech data="10217" />
+              <tech data="3417" />
+              <tech data="12017" />
+              <tech data="12117" />
+              <tech data="3317" />
+              <tech data="180317" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>18</id>
+            <techs>
+              <tech data="110181" />
+              <tech data="10218" />
+              <tech data="3018" />
+              <tech data="180418" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>19</id>
+            <techs>
+              <tech data="919" />
+              <tech data="10019" />
+              <tech data="10219" />
+              <tech data="3019" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>64</id>
+            <techs>
+              <tech data="10964" />
+              <tech data="10965" />
+              <tech data="10966" />
+              <tech data="10967" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>51</id>
+            <techs>
+              <tech data="1051" />
+              <tech data="3051" />
+              <tech data="12051" />
+              <tech data="11051" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>53</id>
+            <techs>
+              <tech data="11053" />
+              <tech data="180353" />
+              <tech data="180253" />
+              <tech data="12053" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>54</id>
+            <techs>
+              <tech data="11054" />
+              <tech data="110542" />
+              <tech data="180354" />
+              <tech data="1054" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+          <unitData>
+            <id>61</id>
+            <techs>
+              <tech data="11061" />
+              <tech data="1061" />
+              <tech data="12061" />
+              <tech data="12161" />
+            </techs>
+            <unlockedTechs />
+          </unitData>
+        </unitDatas>
+        <style>
+          <unitStyles />
+        </style>
+      </data>
+      <playerRoundRecords>
+        <PlayerRoundRecord>
+          <round>0</round>
+          <playerData>
+            <reactorCore>4000</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units />
+            <unitIndex>0</unitIndex>
+            <officers />
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits />
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>9</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>13</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseAdvanceTeam">
+              <Time>4</Time>
+              <LocalTime>20.3499756</LocalTime>
+              <Index>2</Index>
+              <ID>9877</ID>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>1</round>
+          <playerData>
+            <reactorCore>3500</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>9</id>
+                <Index>0</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>5</x>
+                  <y>160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>1</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>5</x>
+                  <y>140</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>2</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>5</x>
+                  <y>180</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>3</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>5</x>
+                  <y>120</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>4</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>5</x>
+                  <y>200</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>5</unitIndex>
+            <officers>
+              <int>10002</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>9</int>
+                <int>13</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>2</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>2</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>-1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>0</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>31</Time>
+              <LocalTime>78.95022</LocalTime>
+              <UID>2</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>36</Time>
+              <LocalTime>78.95022</LocalTime>
+              <UID>2</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>37</Time>
+              <LocalTime>78.95022</LocalTime>
+              <UID>9</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>42</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>6</unitIndex>
+                  <position>
+                    <x>180</x>
+                    <y>185</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>50</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>1</unitIndex>
+                  <position>
+                    <x>-240</x>
+                    <y>55</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>56</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>13</unitID>
+                  <unitIndex>3</unitIndex>
+                  <position>
+                    <x>-185</x>
+                    <y>60</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>62</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>0</unitIndex>
+                  <position>
+                    <x>-130</x>
+                    <y>55</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>65</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>13</unitID>
+                  <unitIndex>4</unitIndex>
+                  <position>
+                    <x>-75</x>
+                    <y>60</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>69</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>2</unitIndex>
+                  <position>
+                    <x>-20</x>
+                    <y>55</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>73</Time>
+              <LocalTime>78.95022</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>5</unitIndex>
+                  <position>
+                    <x>-130</x>
+                    <y>100</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>80</Time>
+              <LocalTime>80.5503159</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>2</unitID>
+                  <unitIndex>5</unitIndex>
+                  <position>
+                    <x>110</x>
+                    <y>160</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_ReleaseContraption">
+              <Time>87</Time>
+              <LocalTime>87.15072</LocalTime>
+              <ContraptionID>20001</ContraptionID>
+              <Position>
+                <x>-133</x>
+                <y>10</y>
+              </Position>
+              <ExtraPosition>
+                <x>0</x>
+                <y>0</y>
+              </ExtraPosition>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>87</Time>
+              <LocalTime>87.80076</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>2</round>
+          <playerData>
+            <reactorCore>3500</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>9</id>
+                <Index>0</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>21411</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-130</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>1</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>5628</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-240</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>2</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>9978</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-20</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>3</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>66061</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-185</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>4</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>80000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-75</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>5</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>12278</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>11578</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>180</x>
+                  <y>185</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>7</unitIndex>
+            <officers>
+              <int>10002</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>9</int>
+                <int>13</int>
+                <int>2</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>0</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>0</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>1</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>9</Time>
+              <LocalTime>44.1496124</LocalTime>
+              <ID>0</ID>
+              <Index>-1</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>10</Time>
+              <LocalTime>44.1496124</LocalTime>
+              <UIDX>4</UIDX>
+              <UID>0</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>17</Time>
+              <LocalTime>44.1496124</LocalTime>
+              <UID>13</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>20</Time>
+              <LocalTime>44.1496124</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>13</unitID>
+                  <unitIndex>7</unitIndex>
+                  <position>
+                    <x>35</x>
+                    <y>60</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>21</Time>
+              <LocalTime>44.1496124</LocalTime>
+              <UID>9</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>25</Time>
+              <LocalTime>44.1496124</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>9</unitID>
+                  <unitIndex>8</unitIndex>
+                  <position>
+                    <x>90</x>
+                    <y>55</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_ActiveEnergyTowerSkill">
+              <Time>44</Time>
+              <LocalTime>44.4996071</LocalTime>
+              <SkillID>5</SkillID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>45</Time>
+              <LocalTime>45.4495926</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>3</round>
+          <playerData>
+            <reactorCore>3500</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Win</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>9</id>
+                <Index>0</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>31211</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-130</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>1</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>19228</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-240</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>2</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>17478</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-20</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>3</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>80000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-185</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>4</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>57500</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-75</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>5</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>24828</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>11578</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>180</x>
+                  <y>185</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>7</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>80000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>35</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>8</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>12900</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>90</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>9</unitIndex>
+            <officers>
+              <int>10002</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>9</int>
+                <int>13</int>
+                <int>2</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>6</int>
+                <int>7</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>0</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>1</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>1</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>6</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <ID>31302</ID>
+              <Index>2</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>7</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <UIDX>3</UIDX>
+              <UID>0</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>9</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <UIDX>7</UIDX>
+              <UID>0</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>18</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <UID>6</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>19</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <UID>6</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>19</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <UID>6</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>23</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>6</unitID>
+                  <unitIndex>10</unitIndex>
+                  <position>
+                    <x>-185</x>
+                    <y>80</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>28</Time>
+              <LocalTime>43.9996147</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>6</unitID>
+                  <unitIndex>9</unitIndex>
+                  <position>
+                    <x>-75</x>
+                    <y>80</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>31</Time>
+              <LocalTime>43.9996147</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>4</round>
+          <playerData>
+            <reactorCore>2759</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Lose</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>9</id>
+                <Index>0</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>31211</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-130</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>1</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>19228</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-240</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>2</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>17478</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-20</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>3</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>4800</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-185</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>4</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>57500</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-75</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>5</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>65000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>27428</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>180</x>
+                  <y>185</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>7</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>79800</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>35</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>8</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>12900</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>90</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>6</id>
+                <Index>9</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>1200</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-75</x>
+                  <y>80</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>6</id>
+                <Index>10</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>4200</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-185</x>
+                  <y>80</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>11</unitIndex>
+            <officers>
+              <int>10002</int>
+              <int>31302</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies />
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>9</int>
+                <int>13</int>
+                <int>2</int>
+                <int>6</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>7</int>
+                <int>8</int>
+                <int>10</int>
+                <int>11</int>
+                <int>12</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>0</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>0</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>1</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>8</Time>
+              <LocalTime>62.59933</LocalTime>
+              <ID>20006</ID>
+              <Index>2</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeTechnology">
+              <Time>16</Time>
+              <LocalTime>62.59933</LocalTime>
+              <UID>9</UID>
+              <TechID>209</TechID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UnlockUnit">
+              <Time>19</Time>
+              <LocalTime>62.59933</LocalTime>
+              <UID>10</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>20</Time>
+              <LocalTime>62.59933</LocalTime>
+              <UID>10</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>38</Time>
+              <LocalTime>62.59933</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>10</unitID>
+                  <unitIndex>11</unitIndex>
+                  <position>
+                    <x>-140</x>
+                    <y>205</y>
+                  </position>
+                  <isRotate>true</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>41</Time>
+              <LocalTime>62.59933</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+        <PlayerRoundRecord>
+          <round>5</round>
+          <playerData>
+            <reactorCore>1114</reactorCore>
+            <supply>0</supply>
+            <preRoundFightResult>Lose</preRoundFightResult>
+            <units>
+              <NewUnitData>
+                <id>9</id>
+                <Index>0</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>31211</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-130</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>1</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>19228</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-240</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>2</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>17478</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-20</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>3</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>12900</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-185</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>4</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>57500</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>-75</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>2</id>
+                <Index>5</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>65000</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>110</x>
+                  <y>160</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>6</Index>
+                <RoundCount>3</RoundCount>
+                <Durability>0</Durability>
+                <Exp>32528</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>180</x>
+                  <y>185</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>13</id>
+                <Index>7</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>79800</Exp>
+                <Level>1</Level>
+                <Position>
+                  <x>35</x>
+                  <y>60</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>300</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>9</id>
+                <Index>8</Index>
+                <RoundCount>2</RoundCount>
+                <Durability>0</Durability>
+                <Exp>12900</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>90</x>
+                  <y>55</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>6</id>
+                <Index>9</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>1200</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-75</x>
+                  <y>80</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>6</id>
+                <Index>10</Index>
+                <RoundCount>1</RoundCount>
+                <Durability>0</Durability>
+                <Exp>8100</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-185</x>
+                  <y>80</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>false</IsRotate>
+                <SellSupply>200</SellSupply>
+              </NewUnitData>
+              <NewUnitData>
+                <id>10</id>
+                <Index>11</Index>
+                <RoundCount>0</RoundCount>
+                <Durability>0</Durability>
+                <Exp>0</Exp>
+                <Level>0</Level>
+                <Position>
+                  <x>-140</x>
+                  <y>205</y>
+                </Position>
+                <EquipmentID>0</EquipmentID>
+                <IsRotate>true</IsRotate>
+                <SellSupply>100</SellSupply>
+              </NewUnitData>
+            </units>
+            <unitIndex>12</unitIndex>
+            <officers>
+              <int>10002</int>
+              <int>31302</int>
+              <int>20006</int>
+            </officers>
+            <commanderSkills />
+            <activeTechnologies>
+              <UnitData>
+                <id>9</id>
+                <techs>
+                  <tech data="209" />
+                </techs>
+                <unlockedTechs />
+              </UnitData>
+            </activeTechnologies>
+            <equipments />
+            <shop>
+              <unlockedUnits>
+                <int>9</int>
+                <int>13</int>
+                <int>2</int>
+                <int>6</int>
+                <int>10</int>
+              </unlockedUnits>
+              <lockedUnits>
+                <int>1</int>
+                <int>3</int>
+                <int>4</int>
+                <int>5</int>
+                <int>7</int>
+                <int>8</int>
+                <int>11</int>
+                <int>12</int>
+                <int>14</int>
+                <int>15</int>
+                <int>16</int>
+                <int>17</int>
+                <int>18</int>
+                <int>19</int>
+              </lockedUnits>
+              <BuyCount>1</BuyCount>
+              <MaxUnlockCount>1</MaxUnlockCount>
+              <UnlockCount>0</UnlockCount>
+            </shop>
+            <contraptions />
+            <contraptionIndex>1</contraptionIndex>
+            <bluepints />
+            <towerStrengthenLevels>
+              <int>0</int>
+              <int>0</int>
+            </towerStrengthenLevels>
+            <IsSpecialSupply>false</IsSpecialSupply>
+          </playerData>
+          <actionRecords>
+            <MatchActionData xsi:type="PAD_ChooseReinforceItem">
+              <Time>7</Time>
+              <LocalTime>100.151512</LocalTime>
+              <ID>1305002</ID>
+              <Index>3</Index>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UseEquipment">
+              <Time>12</Time>
+              <LocalTime>100.151512</LocalTime>
+              <EquipmentID>1305002</EquipmentID>
+              <UnitIndex>4</UnitIndex>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeTechnology">
+              <Time>18</Time>
+              <LocalTime>100.151512</LocalTime>
+              <UID>13</UID>
+              <TechID>10513</TechID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>20</Time>
+              <LocalTime>100.151512</LocalTime>
+              <UID>10</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>23</Time>
+              <LocalTime>100.151512</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>10</unitID>
+                  <unitIndex>12</unitIndex>
+                  <position>
+                    <x>-75</x>
+                    <y>20</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_UpgradeUnit">
+              <Time>32</Time>
+              <LocalTime>100.151512</LocalTime>
+              <UIDX>5</UIDX>
+              <UID>0</UID>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_BuyUnit">
+              <Time>41</Time>
+              <LocalTime>100.151512</LocalTime>
+              <UID>13</UID>
+              <UIDX>-1</UIDX>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_MoveUnit">
+              <Time>49</Time>
+              <LocalTime>100.151512</LocalTime>
+              <moveUnitDatas>
+                <MoveUnitData>
+                  <unitID>13</unitID>
+                  <unitIndex>13</unitIndex>
+                  <position>
+                    <x>145</x>
+                    <y>70</y>
+                  </position>
+                  <isRotate>false</isRotate>
+                </MoveUnitData>
+              </moveUnitDatas>
+            </MatchActionData>
+            <MatchActionData xsi:type="PAD_FinishDeploy">
+              <Time>54</Time>
+              <LocalTime>100.151512</LocalTime>
+            </MatchActionData>
+          </actionRecords>
+        </PlayerRoundRecord>
+      </playerRoundRecords>
+    </PlayerRecord>
+  </playerRecords>
+  <matchDatas>
+    <MatchSnapshotData>
+      <round>0</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>14721549750636324203</unsignedLong>
+          <unsignedLong>11645757436189981567</unsignedLong>
+          <unsignedLong>16712686742681904201</unsignedLong>
+          <unsignedLong>16625124169283299420</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10002</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30101</int>
+        <int>30302</int>
+        <int>30401</int>
+        <int>30502</int>
+        <int>30604</int>
+        <int>30701</int>
+        <int>30804</int>
+        <int>31104</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>13030007</int>
+        <int>10007</int>
+        <int>10008</int>
+        <int>10009</int>
+        <int>30202</int>
+        <int>30902</int>
+        <int>31001</int>
+        <int>31204</int>
+        <int>31302</int>
+        <int>31501</int>
+        <int>31601</int>
+        <int>31801</int>
+        <int>31901</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+    <MatchSnapshotData>
+      <round>1</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>14098510621892719244</unsignedLong>
+          <unsignedLong>486254660009779087</unsignedLong>
+          <unsignedLong>6681117506506987599</unsignedLong>
+          <unsignedLong>18401837275580128179</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30101</int>
+        <int>30302</int>
+        <int>30401</int>
+        <int>30502</int>
+        <int>30604</int>
+        <int>30701</int>
+        <int>30804</int>
+        <int>31104</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>13030007</int>
+        <int>10007</int>
+        <int>10008</int>
+        <int>10009</int>
+        <int>30202</int>
+        <int>30902</int>
+        <int>31001</int>
+        <int>31204</int>
+        <int>31302</int>
+        <int>31501</int>
+        <int>31601</int>
+        <int>31801</int>
+        <int>31901</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+    <MatchSnapshotData>
+      <round>2</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>14098510621892719244</unsignedLong>
+          <unsignedLong>486254660009779087</unsignedLong>
+          <unsignedLong>6681117506506987599</unsignedLong>
+          <unsignedLong>18401837275580128179</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30101</int>
+        <int>30302</int>
+        <int>30401</int>
+        <int>30502</int>
+        <int>30604</int>
+        <int>30701</int>
+        <int>30804</int>
+        <int>31104</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>13030007</int>
+        <int>10007</int>
+        <int>10008</int>
+        <int>10009</int>
+        <int>30202</int>
+        <int>30902</int>
+        <int>31001</int>
+        <int>31204</int>
+        <int>31302</int>
+        <int>31501</int>
+        <int>31601</int>
+        <int>31801</int>
+        <int>31901</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+    <MatchSnapshotData>
+      <round>3</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>2561821244711343804</unsignedLong>
+          <unsignedLong>11528439610384660565</unsignedLong>
+          <unsignedLong>4896215732378864173</unsignedLong>
+          <unsignedLong>12906943386853100088</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>30804</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30101</int>
+        <int>30302</int>
+        <int>30401</int>
+        <int>30502</int>
+        <int>30604</int>
+        <int>30701</int>
+        <int>10004</int>
+        <int>31104</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>13030007</int>
+        <int>10007</int>
+        <int>13030005</int>
+        <int>30202</int>
+        <int>30902</int>
+        <int>31001</int>
+        <int>31204</int>
+        <int>31302</int>
+        <int>31501</int>
+        <int>31601</int>
+        <int>31801</int>
+        <int>10008</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>10009</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+    <MatchSnapshotData>
+      <round>4</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>384687326183060757</unsignedLong>
+          <unsignedLong>5153897275180322020</unsignedLong>
+          <unsignedLong>9465162791134257762</unsignedLong>
+          <unsignedLong>2977976878594432805</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20006</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30101</int>
+        <int>30302</int>
+        <int>30401</int>
+        <int>30502</int>
+        <int>30604</int>
+        <int>30701</int>
+        <int>30804</int>
+        <int>31104</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>1307001</int>
+        <int>13030003</int>
+        <int>10001</int>
+        <int>13040001</int>
+        <int>10009</int>
+        <int>30202</int>
+        <int>30902</int>
+        <int>31001</int>
+        <int>31204</int>
+        <int>10008</int>
+        <int>31501</int>
+        <int>31601</int>
+        <int>31801</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>10007</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+    <MatchSnapshotData>
+      <round>5</round>
+      <randomStateData>
+        <randomStates>
+          <unsignedLong>11998986785706115200</unsignedLong>
+          <unsignedLong>12535189315690746950</unsignedLong>
+          <unsignedLong>12928807290866058485</unsignedLong>
+          <unsignedLong>16382664544596830743</unsignedLong>
+        </randomStates>
+      </randomStateData>
+      <reinforcePool>
+        <int>10003</int>
+        <int>20001</int>
+        <int>20002</int>
+        <int>20023</int>
+        <int>200002</int>
+        <int>300004</int>
+        <int>300005</int>
+        <int>300006</int>
+        <int>300007</int>
+        <int>500002</int>
+        <int>1200004</int>
+        <int>1200005</int>
+        <int>1305002</int>
+        <int>1306001</int>
+        <int>13030006</int>
+        <int>13030008</int>
+        <int>10004</int>
+        <int>20003</int>
+        <int>20022</int>
+        <int>30101</int>
+        <int>30302</int>
+        <int>30401</int>
+        <int>30502</int>
+        <int>30701</int>
+        <int>30804</int>
+        <int>31104</int>
+        <int>31403</int>
+        <int>200001</int>
+        <int>800001</int>
+        <int>1000001</int>
+        <int>1100001</int>
+        <int>1200001</int>
+        <int>1200002</int>
+        <int>1200003</int>
+        <int>1305001</int>
+        <int>1305003</int>
+        <int>13010001</int>
+        <int>13020001</int>
+        <int>13030001</int>
+        <int>13030002</int>
+        <int>13030004</int>
+        <int>1307001</int>
+        <int>10005</int>
+        <int>20024</int>
+        <int>100002</int>
+        <int>200003</int>
+        <int>300003</int>
+        <int>600002</int>
+        <int>10001</int>
+        <int>13030003</int>
+        <int>10007</int>
+        <int>10008</int>
+        <int>10009</int>
+        <int>30202</int>
+        <int>30601</int>
+        <int>30902</int>
+        <int>31001</int>
+        <int>31204</int>
+        <int>31501</int>
+        <int>31601</int>
+        <int>31801</int>
+        <int>300001</int>
+        <int>1308001</int>
+        <int>13030005</int>
+        <int>13040001</int>
+      </reinforcePool>
+    </MatchSnapshotData>
+  </matchDatas>
+  <reinforceItems />
+  <Version>959</Version>
+  <Seat>0</Seat>
+  <BattleInfo>
+    <StartTime>1702797687</StartTime>
+    <SystemSeed>1166762252</SystemSeed>
+    <BattleID>20231217--268455163</BattleID>
+    <PrepareTime>30</PrepareTime>
+    <DeployTime>100</DeployTime>
+    <FightTime>120</FightTime>
+    <MapID>1011</MapID>
+    <MaxRound>40</MaxRound>
+    <BlueprintIncreaseSupply>0</BlueprintIncreaseSupply>
+    <EnableAdvanceTeam>true</EnableAdvanceTeam>
+    <EnableReinforcement>true</EnableReinforcement>
+    <GameMode>Normal</GameMode>
+    <MatchMode>VS_1_1</MatchMode>
+    <HostID>0</HostID>
+    <WatchDelay>100</WatchDelay>
+    <AllowWatchChat>true</AllowWatchChat>
+    <SurviveModeDifficulty>VeryEasy</SurviveModeDifficulty>
+  </BattleInfo>
+</BattleRecord>
