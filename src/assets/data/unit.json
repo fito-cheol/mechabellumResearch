@@ -1,7 +1,8 @@
 {
-    "crawler": {
+    "10": {
         "unit_index": "1",
         "unit_name": "crawler",
+        "unit_id": "10",
         "price": "100",
         "hp": "261",
         "speed": "16",
@@ -15,13 +16,14 @@
         "projectile_type": "none",
         "target": "ground",
         "units": "24",
-        "width": "25",
-        "height": "10",
-        "size": "3.2"
+        "width": "50",
+        "height": "20",
+        "size": "6.5"
     },
-    "fang": {
+    "9": {
         "unit_index": "2",
         "unit_name": "fang",
+        "unit_id": "9",
         "price": "100",
         "hp": "117",
         "speed": "6",
@@ -35,13 +37,14 @@
         "projectile_type": "bullet",
         "target": "both",
         "units": "18",
-        "width": "25",
-        "height": "10",
-        "size": "3.7"
+        "width": "50",
+        "height": "20",
+        "size": "7.5"
     },
-    "marksman": {
+    "2": {
         "unit_index": "3",
         "unit_name": "marksman",
+        "unit_id": "2",
         "price": "100",
         "hp": "1544",
         "speed": "8",
@@ -55,13 +58,14 @@
         "projectile_type": "bullet",
         "target": "both",
         "units": "1",
-        "width": "10",
-        "height": "10",
-        "size": "10.0"
+        "width": "20",
+        "height": "20",
+        "size": "20.0"
     },
-    "arclight": {
+    "15": {
         "unit_index": "4",
         "unit_name": "arclight",
+        "unit_id": "15",
         "price": "100",
         "hp": "3903",
         "speed": "7",
@@ -75,13 +79,14 @@
         "projectile_type": "bullet",
         "target": "ground",
         "units": "1",
-        "width": "10",
-        "height": "10",
-        "size": "10.0"
+        "width": "20",
+        "height": "20",
+        "size": "20.0"
     },
-    "wasp": {
+    "6": {
         "unit_index": "5",
         "unit_name": "wasp",
+        "unit_id": "6",
         "price": "200",
         "hp": "302",
         "speed": "16",
@@ -95,13 +100,14 @@
         "projectile_type": "bullet",
         "target": "both",
         "units": "12",
-        "width": "10",
-        "height": "10",
-        "size": "2.9"
+        "width": "20",
+        "height": "20",
+        "size": "5.8"
     },
-    "mustang": {
+    "7": {
         "unit_index": "6",
         "unit_name": "mustang",
+        "unit_id": "7",
         "price": "200",
         "hp": "343",
         "speed": "16",
@@ -115,13 +121,14 @@
         "projectile_type": "bullet",
         "target": "both",
         "units": "12",
-        "width": "25",
-        "height": "10",
-        "size": "4.6"
+        "width": "50",
+        "height": "20",
+        "size": "9.1"
     },
-    "sledgehammer": {
+    "13": {
         "unit_index": "7",
         "unit_name": "sledgehammer",
+        "unit_id": "13",
         "price": "200",
         "hp": "3699",
         "speed": "7",
@@ -135,13 +142,14 @@
         "projectile_type": "bullet",
         "target": "ground",
         "units": "5",
-        "width": "25",
-        "height": "10",
-        "size": "7.1"
+        "width": "50",
+        "height": "20",
+        "size": "14.1"
     },
-    "steelball": {
+    "8": {
         "unit_index": "8",
         "unit_name": "steelball",
+        "unit_id": "8",
         "price": "200",
         "hp": "4571",
         "speed": "16",
@@ -155,13 +163,14 @@
         "projectile_type": "layzer",
         "target": "ground",
         "units": "4",
-        "width": "25",
-        "height": "10",
-        "size": "7.9"
+        "width": "50",
+        "height": "20",
+        "size": "15.8"
     },
-    "stormcaller": {
+    "12": {
         "unit_index": "9",
         "unit_name": "stormcaller",
+        "unit_id": "12",
         "price": "200",
         "hp": "1149",
         "speed": "6",
@@ -175,13 +184,14 @@
         "projectile_type": "missile",
         "target": "ground",
         "units": "4",
-        "width": "25",
-        "height": "10",
-        "size": "7.9"
+        "width": "50",
+        "height": "20",
+        "size": "15.8"
     },
-    "phoenix": {
+    "16": {
         "unit_index": "10",
         "unit_name": "phoenix",
+        "unit_id": "16",
         "price": "200",
         "hp": "1623",
         "speed": "16",
@@ -195,13 +205,14 @@
         "projectile_type": "missile",
         "target": "both",
         "units": "2",
-        "width": "20",
-        "height": "10",
-        "size": "10.0"
+        "width": "40",
+        "height": "20",
+        "size": "20.0"
     },
-    "rhino": {
+    "5": {
         "unit_index": "11",
         "unit_name": "rhino",
+        "unit_id": "5",
         "price": "200",
         "hp": "19297",
         "speed": "16",
@@ -215,13 +226,14 @@
         "projectile_type": "none",
         "target": "ground",
         "units": "1",
-        "width": "15",
-        "height": "15",
-        "size": "15.0"
+        "width": "30",
+        "height": "30",
+        "size": "30.0"
     },
-    "hacker": {
+    "14": {
         "unit_index": "12",
         "unit_name": "hacker",
+        "unit_id": "14",
         "price": "200",
         "hp": "3249",
         "speed": "8",
@@ -235,13 +247,14 @@
         "projectile_type": "layzer",
         "target": "ground",
         "units": "1",
-        "width": "15",
-        "height": "15",
-        "size": "15.0"
+        "width": "30",
+        "height": "30",
+        "size": "30.0"
     },
-    "wraith": {
+    "18": {
         "unit_index": "13",
         "unit_name": "wraith",
+        "unit_id": "18",
         "price": "300",
         "hp": "15791",
         "speed": "10",
@@ -255,13 +268,14 @@
         "projectile_type": "bullet",
         "target": "both",
         "units": "1",
-        "width": "15",
-        "height": "15",
-        "size": "15.0"
+        "width": "30",
+        "height": "30",
+        "size": "30.0"
     },
-    "scorpion": {
+    "19": {
         "unit_index": "14",
         "unit_name": "scorpion",
+        "unit_id": "19",
         "price": "300",
         "hp": "15830",
         "speed": "6",
@@ -275,13 +289,14 @@
         "projectile_type": "bullet",
         "target": "ground",
         "units": "1",
-        "width": "15",
-        "height": "15",
-        "size": "15.0"
+        "width": "30",
+        "height": "30",
+        "size": "30.0"
     },
-    "vulcan": {
+    "3": {
         "unit_index": "15",
         "unit_name": "vulcan",
+        "unit_id": "3",
         "price": "400",
         "hp": "38851",
         "speed": "6",
@@ -295,13 +310,14 @@
         "projectile_type": "bullet",
         "target": "ground",
         "units": "1",
-        "width": "20",
-        "height": "20",
-        "size": "20.0"
+        "width": "40",
+        "height": "40",
+        "size": "40.0"
     },
-    "fortress": {
+    "1": {
         "unit_index": "16",
         "unit_name": "fortress",
+        "unit_id": "1",
         "price": "400",
         "hp": "51205",
         "speed": "6",
@@ -315,13 +331,14 @@
         "projectile_type": "bullet",
         "target": "ground",
         "units": "1",
-        "width": "20",
-        "height": "20",
-        "size": "20.0"
+        "width": "40",
+        "height": "40",
+        "size": "40.0"
     },
-    "meltingpoint": {
+    "4": {
         "unit_index": "17",
         "unit_name": "meltingpoint",
+        "unit_id": "4",
         "price": "400",
         "hp": "41102",
         "speed": "6",
@@ -335,13 +352,14 @@
         "projectile_type": "layzer",
         "target": "both",
         "units": "1",
-        "width": "20",
-        "height": "20",
-        "size": "20.0"
+        "width": "40",
+        "height": "40",
+        "size": "40.0"
     },
-    "overlord": {
+    "11": {
         "unit_index": "18",
         "unit_name": "overlord",
+        "unit_id": "11",
         "price": "400",
         "hp": "15630",
         "speed": "10",
@@ -355,13 +373,14 @@
         "projectile_type": "missile",
         "target": "both",
         "units": "1",
-        "width": "20",
-        "height": "20",
-        "size": "20.0"
+        "width": "40",
+        "height": "40",
+        "size": "40.0"
     },
-    "warfactory": {
+    "17": {
         "unit_index": "19",
         "unit_name": "warfactory",
+        "unit_id": "17",
         "price": "800",
         "hp": "189543",
         "speed": "6",
@@ -375,8 +394,8 @@
         "projectile_type": "bullet",
         "target": "ground",
         "units": "1",
-        "width": "35",
-        "height": "35",
-        "size": "35.0"
+        "width": "70",
+        "height": "70",
+        "size": "70.0"
     }
 }
