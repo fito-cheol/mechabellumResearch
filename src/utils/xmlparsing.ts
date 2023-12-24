@@ -1,16 +1,14 @@
 import { XMLParser } from 'fast-xml-parser';
-import fs from 'fs';
-import path from 'path';
 
-function parseXml(XMLdata: string) {
+export function parseXml(XMLdata: string) {
   const parser = new XMLParser();
 
   const jObj = parser.parse(XMLdata);
 
   return jObj;
 }
+export function arrayBufferToString(arrayBuffer: ArrayBuffer) {
+  const uint8array = new Uint8Array(arrayBuffer);
 
-function readReplayText(filename: string) {
-  // position_[배부른곰이]VS[Bot]
-  return fs.readFileSync(path.resolve(__dirname, `src/assets/replay/${filename}.grbr`));
+  return new TextDecoder('utf-8').decode(uint8array);
 }

@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import './App.scoped.scss';
-import Labeling from './pages/Labeling';
+import BattleField from './pages/BattleField';
 
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
@@ -39,7 +39,7 @@ function App() {
         <CssBaseline />
         <div className='container'>
           <div className={`labeling__wrapper labeling__wrapper--${theme.palette.mode}`}>
-            <Labeling />
+            <BattleField />
             <ToggleColorMode />
           </div>
         </div>

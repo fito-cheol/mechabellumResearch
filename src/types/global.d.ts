@@ -41,4 +41,77 @@ declare global {
   interface ReturnCount {
     totalCount: number;
   }
+  interface Unit {
+    unit_index: string;
+    unit_name: string;
+    unit_id: string;
+    price: string;
+    hp: string;
+    speed: string;
+    atk_count: string;
+    atk_pow: string;
+    atk_divide: string;
+    splash_range: string;
+    attack_interval: string;
+    range: string;
+    projectile_speed: string;
+    projectile_type: string;
+    target: string;
+    units: string;
+    width: string;
+    height: string;
+    size: string;
+  }
+
+  interface Replay {
+    BattleRecord: {
+      playerRecords: PlayerRecords;
+    };
+  }
+  interface PlayerRecords {
+    PlayerRecord: PlayerRecord[];
+  }
+  interface PlayerRecord {
+    id: string;
+    name: string;
+    seed: number;
+    ad: number;
+    playerRoundRecords: PlayerRoundRecords;
+  }
+
+  interface PlayerRoundRecords {
+    PlayerRoundRecord: PlayerRoundRecord[];
+  }
+
+  interface PlayerRoundRecord {
+    round: number;
+    playerData: PlayerData;
+  }
+  interface PlayerData {
+    reactCore: number;
+    supply: number;
+    preRounFightResult: string;
+    units: Units;
+    unitIndex: number;
+  }
+  interface Units {
+    NewUnitData: NewUnitData;
+  }
+  type NewUnitData = NewUnitDatum[];
+  interface NewUnitDatum {
+    id: number;
+    Index: number;
+    RoundCount: number;
+    Durability: number;
+    Exp: number;
+    Level: number;
+    Position: Position;
+    EquipmentID: number;
+    IsRotate: boolean;
+    SellSupply: number;
+  }
+  interface Position {
+    x: number;
+    y: number;
+  }
 }
