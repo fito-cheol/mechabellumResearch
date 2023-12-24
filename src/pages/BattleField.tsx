@@ -6,50 +6,37 @@ import { parseXml } from 'utils/xmlparsing';
 import FileInput from 'components/input/FileInput';
 import ImageUnitField from 'components/image/unit_field';
 import DropDownInput from 'components/input/DropDown';
+import ReplayObject from 'utils/ReplayObject';
 
 function BattleField() {
   // TODO: 유닛 정보 파싱해서 글자로 보여주기
   // TODO: 맵에 유닛 매치할 수 있게 그리드 그리기
 
+  const [replayObject, setReplayObject] = useState<ReplayObject | null>(null);
   const [replay, setReplay] = useState<Replay | null>(null);
   const [maxRound, setMaxRound] = useState<number>(0);
 
-  const [round, setRound] = useState<number>(0);
-  const [name, setName] = useState<string>('');
+  const [selectedRound, setSelectedRound] = useState<number>(0);
+  const [roundList, setRoundList] = useState<number[]>([]);
+  const [nameList, setNameList] = useState<string[]>([]);
+
   const [unitsList, setUnitsList] = useState<NewUnitData[]>([]);
 
   const field_width = 820;
   const field_height = 650;
 
   useEffect(() => {
-    if (replay) {
-      const newRoundMax =
-        replay.BattleRecord.playerRecords.PlayerRecord[0].playerRoundRecords.PlayerRoundRecord.length - 1;
-      setMaxRound(newRoundMax);
-      if (round > newRoundMax || !round) {
-        setRound(newRoundMax);
+    if (replayObject) {
+      const maxRound = replayObject.getMaxRound();
+      setMaxRound(maxRound);
+      if (selectedRound > maxRound || !selectedRound) {
+        setSelectedRound(maxRound);
       }
-
-      hadleReplay(replay, round);
+      setNameList(replayObject.getPlayerNameList());
+      setRoundList(replayObject.getRoundList());
+      setUnitsList(replayObject.getUnitList(selectedRound));
     }
-  }, [replay, round]);
-
-  function hadleReplay(replay: Replay, round: number) {
-    let newName = '';
-    const newUnits: NewUnitData[] = [];
-    replay.BattleRecord.playerRecords.PlayerRecord.forEach(playerRecord => {
-      newName = newName + playerRecord.name + ' ';
-
-      const recordList = playerRecord.playerRoundRecords.PlayerRoundRecord;
-      const selectedRoundRecord = recordList[round];
-      if (selectedRoundRecord.playerData.units) {
-        console.log(selectedRoundRecord.playerData.units.NewUnitData);
-        newUnits.push(selectedRoundRecord.playerData.units.NewUnitData);
-      }
-    });
-    setName(newName);
-    setUnitsList(newUnits);
-  }
+  }, [replayObject, selectedRound]);
 
   return (
     <>
@@ -78,15 +65,15 @@ function BattleField() {
         </div>
       </Grid>
       <Grid className='labeling__row labeling__row--file' container alignItems='center' justifyContent='center'>
-        <FileInput onInput={setReplay} />
+        <FileInput onInput={setReplayObject} />
       </Grid>
       <Grid className='labeling__row labeling__row--file' container alignItems='center' justifyContent='center'>
-        <div>{name}</div>
-        {replay ? (
+        <div>{nameList}</div>
+        {replayObject ? (
           <DropDownInput
-            dropCount={maxRound}
+            selectList={roundList}
             onSelect={selectedRound => {
-              setRound(Number(selectedRound));
+              setSelectedRound(Number(selectedRound));
             }}
           />
         ) : (

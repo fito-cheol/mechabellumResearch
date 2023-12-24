@@ -1,9 +1,10 @@
 import * as React from 'react';
+import ReplayObject from 'utils/ReplayObject';
 
 import { parseXml, arrayBufferToString } from 'utils/xmlparsing';
 
 export interface ITextInputProps {
-  onInput: (replay: Replay) => void;
+  onInput: (replay: ReplayObject) => void;
 }
 
 export default function FileInput({ onInput }: ITextInputProps) {
@@ -14,15 +15,18 @@ export default function FileInput({ onInput }: ITextInputProps) {
       if (fileReader.result) {
         const isString = typeof fileReader.result === 'string';
         if (isString) {
-          const parsedJson: Replay = parseXml(fileReader.result);
-          onInput(parsedJson);
+          const replay: Replay = parseXml(fileReader.result);
+
+          onInput(new ReplayObject(replay));
         } else {
-          const parsedJson: Replay = parseXml(arrayBufferToString(fileReader.result));
-          onInput(parsedJson);
+          const replay: Replay = parseXml(arrayBufferToString(fileReader.result));
+          onInput(new ReplayObject(replay));
         }
       }
     };
-    fileReader.readAsText(file);
+    if (file) {
+      fileReader.readAsText(file);
+    }
   }
 
   return (
